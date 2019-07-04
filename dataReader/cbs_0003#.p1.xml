@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+<Sense type="Implicit" RelNO="4-3-1" content="解释说明">
+	<Source>普京 本 星期 初 曾经 表示 他 将 邀请 南国 总统 米洛舍维奇 和 南国 反对党 总统 候选人 科什图尼察 到 莫斯科 举行 谈判 。 {implicit = 具体来说} 但是 科什图尼察 表示 由于 南国 国内 的 政治 危机 ， 他 无法 离开 南斯拉夫 。而 米洛舍维奇 对 普京 的 提议 则 是 没有 反应 。</Source>
+	<Connectives>
+		<Span>237</Span>
+		<Content>具体来说</Content>
+	</Connectives>
+	<Arg1>
+		<Span>167...237</Span>
+		<Content>普京 本 星期 初 曾经 表示 他 将 邀请 南国 总统 米洛舍维奇 和 南国 反对党 总统 候选人 科什图尼察 到 莫斯科 举行 谈判 。</Content>
+	</Arg1>
+	<Arg2>
+		<Span>238...313</Span>
+		<Content>但是 科什图尼察 表示 由于 南国 国内 的 政治 危机 ， 他 无法 离开 南斯拉夫 。而 米洛舍维奇 对 普京 的 提议 则 是 没有 反应 。</Content>
+	</Arg2>
+	<Annotation>167 237 238 313 0 1 237 具体来说 0 1 1 4-3-1解释说明</Annotation>
+</Sense>
+
+<Sense type="Implicit" RelNO="4-2" content="递进">
+	<Source>俄罗斯 总统 普京 ５号 结束 在 印度 的 访问 飞回 莫斯科 。普京 在 回国 之后 将 努力 平息 南斯拉夫 因为 总统 大选 所 引爆 的 政治 危机 。普京 在 起程 返国 前 表示 ， 在 南国 宪法 法庭 宣布 ９月 ２４号 总统 选举 部分 无效 之后 ， 俄国 将 调整 他 对 这个 事件 的 处理 方针 。 {implicit = 而} 普京 在 访问 印度 期间 和 印度 总理 瓦杰帕耶 达成 协议 ， 两 国 将 制订 共同 战略 ， 打击 来自 阿富汗 的 国际 恐怖 行动 。</Source>
+	<Connectives>
+		<Span>166</Span>
+		<Content>而</Content>
+	</Connectives>
+	<Arg1>
+		<Span>0...166</Span>
+		<Content>俄罗斯 总统 普京 ５号 结束 在 印度 的 访问 飞回 莫斯科 。普京 在 回国 之后 将 努力 平息 南斯拉夫 因为 总统 大选 所 引爆 的 政治 危机 。普京 在 起程 返国 前 表示 ， 在 南国 宪法 法庭 宣布 ９月 ２４号 总统 选举 部分 无效 之后 ， 俄国 将 调整 他 对 这个 事件 的 处理 方针 。</Content>
+	</Arg1>
+	<Arg2>
+		<Span>314...389</Span>
+		<Content>普京 在 访问 印度 期间 和 印度 总理 瓦杰帕耶 达成 协议 ， 两 国 将 制订 共同 战略 ， 打击 来自 阿富汗 的 国际 恐怖 行动 。</Content>
+	</Arg2>
+	<Annotation>0 166 314 389 0 1 166 而 1 0 1 4-2递进</Annotation>
+</Sense>
+
+</doc>
